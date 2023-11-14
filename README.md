@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![8](https://github.com/Aakash0407/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118799103/759f3b2b-35aa-45fa-9952-c607a084b3a3)
+![image](https://github.com/BejinB/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118367518/e06c7816-114b-4234-89a7-5550270dbca9)
 
 ### Name: BEJIN B
 ### Register Number: 212222230021
